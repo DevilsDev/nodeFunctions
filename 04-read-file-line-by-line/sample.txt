@@ -1,0 +1,5 @@
+The quick brown fox
+jumps over the lazy dog.
+Node.js readline is great
+for processing files line by line.
+Goodbye!
